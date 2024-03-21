@@ -7,29 +7,32 @@ The architecture for the *NLP-driven self-assessing recruitment training system*
 ![image](https://github.com/manasvi007/NLP_driven_self_assessing_system/assets/98056259/8c9c0f29-1c48-4624-af7c-3c19f4448417)
 
 Various Job roles from a variety of domains have been covered in this project. These domains and job roles are given below: 
-Department	Job Roles
-IT	Software Developer
-	System Reliability Operator
-CSE	Web Developer (Full-stack)
-MECH	Automotive Engineer
-	Maintenance Engineer
-CYBER-SECURITY	Network Security Engineer
-	Cyber Security Analyst
-	Security Architect
-MBA-FINANCE	Financial Analyst
-	Operations Manager
-MBA-HR	Training and Development Manager
-	Talent Acquisition Manager
-EE	Control Systems Engineer
-	Instrumentation Engineer
-CIVIL	Structural Engineer
-	Construction Manager
-ETC	Embedded Systems Engineer
-	Telecom Project Manager
-DATA SCIENCE	Data Scientist
-	Data Analyst
-AI/ML	ML Engineer
-	AI Engineer
+
+|     Department        |     Job Roles                           |
+|-----------------------|-----------------------------------------|
+|     IT                |     Software Developer                  |
+|                       |     System Reliability Operator         |
+|     CSE               |     Web Developer (Full-stack)          |
+|     MECH              |     Automotive Engineer                 |
+|                       |     Maintenance Engineer                |
+|     CYBER-SECURITY    |     Network Security Engineer           |
+|                       |     Cyber Security Analyst              |
+|                       |     Security Architect                  |
+|     MBA-FINANCE       |     Financial Analyst                   |
+|                       |     Operations Manager                  |
+|     MBA-HR            |     Training and Development Manager    |
+|                       |     Talent Acquisition Manager          |
+|     EE                |     Control Systems Engineer            |
+|                       |     Instrumentation Engineer            |
+|     CIVIL             |     Structural Engineer                 |
+|                       |     Construction Manager                |
+|     ETC               |     Embedded Systems Engineer           |
+|                       |     Telecom Project Manager             |
+|     DATA SCIENCE      |     Data Scientist                      |
+|                       |     Data Analyst                        |
+|     AI/ML             |     ML Engineer                         |
+|                       |     AI Engineer                         |
+
 
 
 The repository consists of the following folders:
