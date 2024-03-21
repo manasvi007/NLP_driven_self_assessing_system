@@ -34,7 +34,6 @@ Various Job roles from a variety of domains have been covered in this project. T
 |                       |     AI Engineer                         |
 
 
-
 The repository consists of the following folders:
 - **Source Code:**
   This folder consists of the source code consisting of the code of the application, providing steps and explanations for all the code snippets. This can be referred to as the working 
